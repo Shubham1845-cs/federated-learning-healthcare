@@ -1,0 +1,22 @@
+# Core FL and ML libraries
+flwr==1.8.0
+tensorflow==2.15.0
+scikit-learn==1.4.0
+
+# Web framework for orchestrator
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.0
+
+# Security and cryptography
+pycryptodome==3.19.0
+cryptography==42.0.4
+
+# Data handling
+pandas==2.2.0
+numpy==1.26.0
+Pillow==10.2.0
+
+# Utilities
+requests==2.31.0
+python-multipart==0.0.9

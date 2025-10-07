@@ -1,0 +1,17 @@
+# Python virtual environment
+fl_project_clean/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Large data files - DO NOT UPLOAD DATASETS TO GIT
+data/
+train/
+train_labels.csv
+*.zip

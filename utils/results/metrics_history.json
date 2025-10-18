@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2025-10-17T23:11:58.152497",
+    "task_name": "diabetes_test",
+    "round": 1,
+    "metrics": {
+      "accuracy": 0.72,
+      "precision": 0.7692307692307693,
+      "recall": 0.7142857142857143,
+      "f1_score": 0.7407407407407407,
+      "sensitivity": 0.7142857142857143,
+      "specificity": 0.7272727272727273,
+      "ppv": 0.7692307692307693,
+      "npv": 0.6666666666666666,
+      "mcc": 0.4387188079786328,
+      "balanced_accuracy": 0.7207792207792207,
+      "roc_auc": 0.8364448051948051,
+      "pr_auc": 0.872273770037457,
+      "true_positives": 40,
+      "true_negatives": 32,
+      "false_positives": 12,
+      "false_negatives": 16,
+      "fpr": 0.2727272727272727,
+      "fnr": 0.2857142857142857,
+      "total_samples": 100,
+      "positive_samples": 56,
+      "negative_samples": 44
+    }
+  },
+  {
+    "timestamp": "2025-10-17T23:11:58.154498",
+    "task_name": "diabetes_test",
+    "round": 2,
+    "metrics": {
+      "accuracy": 0.72,
+      "precision": 0.7692307692307693,
+      "recall": 0.7142857142857143,
+      "f1_score": 0.7407407407407407,
+      "sensitivity": 0.7142857142857143,
+      "specificity": 0.7272727272727273,
+      "ppv": 0.7692307692307693,
+      "npv": 0.6666666666666666,
+      "mcc": 0.4387188079786328,
+      "balanced_accuracy": 0.7207792207792207,
+      "roc_auc": 0.8364448051948051,
+      "pr_auc": 0.872273770037457,
+      "true_positives": 40,
+      "true_negatives": 32,
+      "false_positives": 12,
+      "false_negatives": 16,
+      "fpr": 0.2727272727272727,
+      "fnr": 0.2857142857142857,
+      "total_samples": 100,
+      "positive_samples": 56,
+      "negative_samples": 44
+    }
+  }
+]

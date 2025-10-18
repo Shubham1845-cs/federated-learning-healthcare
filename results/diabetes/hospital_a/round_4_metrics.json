@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-10-17T23:20:46.826511",
+  "task_name": "diabetes_hospital_a",
+  "round": 4,
+  "metrics": {
+    "accuracy": 0.75,
+    "precision": 0.7333333333333333,
+    "recall": 0.55,
+    "f1_score": 0.6285714285714286,
+    "sensitivity": 0.55,
+    "specificity": 0.875,
+    "ppv": 0.7333333333333333,
+    "npv": 0.7567567567567568,
+    "mcc": 0.45638611754553654,
+    "balanced_accuracy": 0.7125,
+    "roc_auc": 0.846875,
+    "pr_auc": 0.782490602448807,
+    "true_positives": 11,
+    "true_negatives": 28,
+    "false_positives": 4,
+    "false_negatives": 9,
+    "fpr": 0.125,
+    "fnr": 0.45,
+    "total_samples": 52,
+    "positive_samples": 20,
+    "negative_samples": 32,
+    "hospital_id": "hospital_a",
+    "round": 4,
+    "loss": 1.4406489133834839
+  }
+}
